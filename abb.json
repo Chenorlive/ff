@@ -78,5 +78,13 @@
     "imageUrl": "https://m.media-amazon.com/images/I/61Uu4ZpqCDL._AC_UL320_.jpg",
     "oldPrice": "1499",
     "price": "719"
+  },
+  {
+      "id": 10,
+      "name": "john",
+      "category": "Man",
+      "imageUrl": "https://hh",
+      "oldPrice": "23",
+      "price": "20"
   }
 ]
